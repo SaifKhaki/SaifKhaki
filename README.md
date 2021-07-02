@@ -8,8 +8,8 @@
     
 </div>
 <br>
-
-  ---
+<h3 align="Center">ACHIEVEMENTS: </h3>
+---
 <div> 
     <p>
       <img width="110" align='left' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/DPOST.png">
@@ -43,7 +43,7 @@
     </p>
 </div>
 <br>
- ---
+---
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SaifKhaki&repo=Ensemble-Learners&theme=dark)](https://github.com/SaifKhaki/Ensemble-Learners)
 
