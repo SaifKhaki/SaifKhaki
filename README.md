@@ -10,7 +10,7 @@
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="100" align='left' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/DPOST.png">
 </p>
  
 ### Boy Scout Rule
@@ -20,7 +20,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 <br>
 <br>
  <p>
-  <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="100" align='right' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/MST.png">
 </p>
  
 ### Boy Scout Rule
@@ -30,7 +30,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  <br>
  <br>
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="100" align='left' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/ACM.png">
 </p>
  
 ### Boy Scout Rule
@@ -40,7 +40,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  <br>
  <br>
  <p>
-  <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="100" align='right' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/HRANK.png">
 </p>
  
 ### Boy Scout Rule
