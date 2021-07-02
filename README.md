@@ -23,7 +23,7 @@ Check out the GitHub repository:
 </div>
 <br>
 
-<h3 align="center">:video_game: Play Performance:</h3>
+<h3 align="center">:video_game: Languages I play in:</h3>
 <hr>
 Always keen to learn more and collaborate with my fellow programmers, I am totally flexible to any kind of development environment as well as programming paradigm. Worked in a lot more algorithms and languages, following is the overview of my latest programming skills and languages contribution in projects:
 <br>
@@ -55,7 +55,7 @@ Always keen to learn more and collaborate with my fellow programmers, I am total
       <img width="110" align='right' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/MST.png">
     </a>
     <h4 align='right'>MLSA • Alpha Ambassador</h4>
-    <p align="right">Joined Microsoft learn student ambassador program in 2020 with </p>
+    <p align="right">Joined Microsoft learn student ambassador program in 2020 with an enthusiastic determination to provide my community with resources and programs information. Promoted to <b>Alpha</b> student ambassaor within first month of my joining. Learnt a lot from not only my local MLSA community but across the globe too.</p>
 </div>
 <br>
 <div> 
@@ -63,7 +63,7 @@ Always keen to learn more and collaborate with my fellow programmers, I am total
       <img width="110" align='left' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/ACM.png">
     </a>
     <h4 align='left'>ACM Innovation Cup • First prize winner in UI UX</h4>
-    <p align="left">I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+    <p align="left">Participated in the biggest national competition held remotely where I presented with my ultimate solution by improvising the design of an educational app for students which proved rewarding to me due to the ultimate aesthetic sense in the design hence, resulted in an internship with <b>WaterSprint</b> company affiliated with Switzerland coorperation.
     </p>
 </div>
 <br>
@@ -72,7 +72,7 @@ Always keen to learn more and collaborate with my fellow programmers, I am total
       <img width="110" align='right' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/HRANK.png">
     </a>
     <h4 align='right'>Hackerrank Python • Golden Level</h4>
-    <p align="right">I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+    <p align="right">Practiced the basics and the advanced level problems from Hackerrank to prove my efficiency of algorithms and usage of data structures. Won a gold level badge :wink:
     </p>
 </div>
 <hr>
