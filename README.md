@@ -26,7 +26,7 @@ Check out the GitHub repository:
 <h3 align="center">:video_game: Languages I play in:</h3>
 <hr>
 Always keen to learn more and collaborate with my fellow programmers, I am totally flexible to any kind of development environment as well as programming paradigm. Worked in a lot more algorithms and languages, following is the overview of my latest programming skills and languages contribution in projects:
-
+<br>
 <br>
 <div align="center">
   <p>
