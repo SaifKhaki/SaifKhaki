@@ -20,11 +20,9 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SaifKhaki&repo=Ensemble-Learners&theme=dark)](https://github.com/SaifKhaki/Ensemble-Learners)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifKhaki&layout=compact&theme=dark)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifKhaki&show_icons=true&theme=dark)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifKhaki&layout=compact&theme=dark)
 
 <h2 align="Center">Social Handles: </h2>
 <p align="Center">
