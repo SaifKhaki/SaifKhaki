@@ -1,7 +1,8 @@
 <div align="center">
-    <h3>Hi there! 👋🤓<br>I'm Stephen Ajulu<br>an I.T Consultant, Web Developer, <br>Entrepreneur, Designer, <br>Creator and Cybsecurity Strategist</h3>
+    <h3>Hi there! 👋🤓<br>This is Saif Ullah Bin Khaki.</h3>
+    <p>ML Engineer | UI UX Designer | Block Chain Enthusiast</p>
     
-<h4> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajuluscard.carrd.co/">Business Card</a> </h4>
+<h4> <a href="saifbinkhaki.official@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/saif-ullah-bin-khaki-57ba45170/">LinkedIn</a> • <a href="https://twitter.com/KhakiBin">Twitter</a> • <a href="https://dribbble.com/saifullahbinkhaki">Dribbble</a> • <a href="https://devpost.com/saifbinkhaki-official">Devpost</a></h4>
     
 </div>
 <br>
