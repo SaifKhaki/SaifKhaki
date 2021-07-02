@@ -72,7 +72,7 @@ Always keen to learn more and collaborate with my fellow programmers, I am total
       <img width="110" align='right' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/HRANK.png">
     </a>
     <h4 align='right'>Hackerrank Python • Golden Level</h4>
-    <p align="right">Practiced the basics and the advanced level problems from Hackerrank to prove my efficiency of algorithms and usage of data structures. Won a gold level badge :wink:
+    <p align="right">Practiced the basics and the advanced level problems from Hackerrank to prove my efficiency of algorithms and usage of data structures. A few of challenging problem that I was able to solve more dynamically and efficiently involved <b><a href="https://www.hackerrank.com/challenges/the-minion-game/problem">The Minion Game<a></b>, <b><a href="https://www.hackerrank.com/challenges/merge-the-tools/problem">Merge the Tools</a></b> and <b><a href="https://www.hackerrank.com/challenges/validating-credit-card-number/problem">Validating Credit Card Numbers</a></b>. Won a gold level badge :wink:
     </p>
 </div>
 <hr>
