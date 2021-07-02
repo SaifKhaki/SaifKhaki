@@ -23,7 +23,7 @@ Check out the GitHub repository:
 </div>
 <br>
 
-<h3 align="center">:video_game: Languages I play in:</h3>
+<h3 align="center">:video_game: Play Performance:</h3>
 <hr>
 Always keen to learn more and collaborate with my fellow programmers, I am totally flexible to any kind of development environment as well as programming paradigm. Worked in a lot more algorithms and languages, following is the overview of my latest programming skills and languages contribution in projects:
 <br>
@@ -33,9 +33,11 @@ Always keen to learn more and collaborate with my fellow programmers, I am total
     <a href="https://github.com/SaifKhaki">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifKhaki&layout=compact&theme=dark" alt="GitHub Stats" />
     </a>
+<!--     <a href="https://github.com/SaifKhaki">
+      <img src="https://github-readme-stats.vercel.app/api?username=SaifKhaki&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </a> -->
   </p>
 </div>
-
 <br>
 <h3 align="Center">:tada: Achievements:</h3>
 <hr>    
