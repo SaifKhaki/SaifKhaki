@@ -50,19 +50,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifKhaki&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifKhaki&layout=compact&theme=dark)
-
-<h2 align="Center">Social Handles: </h2>
-<p align="Center">
-   <a href="https://www.facebook.com/saifullah.khaki.1/">
-    <img src="https://img.shields.io/badge/Facebook-SaifKhaki-blue">
-  </a>
-   <a href="https://www.linkedin.com/in/saif-ullah-bin-khaki-57ba45170/">
-    <img src="https://img.shields.io/badge/Linkedin-SaifBinKhaki-yellow">
-  </a>
-  <a href="https://devpost.com/saifbinkhaki-official?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-    <img src="https://img.shields.io/badge/Devpost-Saifbinkhaki-green">
-  </a>
-   <a href="https://dribbble.com/saifullahbinkhaki">
-    <img src="https://img.shields.io/badge/dribbble-SaifKhaki-lightblue">
-  </a> 
-</p>
