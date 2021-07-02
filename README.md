@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Hi there! 👋🤓</h3>
-    <img width="110" align='center' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/DP.png">
+    <img width="250" align='center' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/DP.png">
     <h3>This is Saif Ullah Bin Khaki.</h3>
     <p>ML Engineer | UI UX Designer | Block Chain Enthusiast</p>
     
@@ -20,7 +20,7 @@
 </div>
 <div>
     <p>
-      <img width="110" align='right' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/DPOST.png">
+      <img width="110" align='right' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/MST.png">
     </p>
     <h3 align='right'>Boy Scout Rule</h3>
     <p align="right">I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
@@ -28,7 +28,7 @@
 </div>
 <div> 
     <p>
-      <img width="110" align='left' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/DPOST.png">
+      <img width="110" align='left' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/ACM.png">
     </p>
     <h3 align='left'>Boy Scout Rule</h3>
     <p align="left">I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
@@ -36,7 +36,7 @@
 </div>
 <div>
     <p>
-      <img width="110" align='right' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/DPOST.png">
+      <img width="110" align='right' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/HRANK.png">
     </p>
     <h3 align='right'>Boy Scout Rule</h3>
     <p align="right">I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
