@@ -39,6 +39,28 @@ Always keen to learn more and collaborate with my fellow programmers, I am total
   </p>
 </div>
 <br>
+<h3 align="center">:video_game: Testimonials:</h3>
+<h1 align="center">❝</h1>
+
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Aiman Tahir</a></td>
+    <td>Saif Ullah is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return!</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Zargham Abbas</a></td>
+    <td>Following @saifkhaki repos helped me a lot. You'll learn by practicing during his livestreams. Check his recent work!</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Hissaan Ali</a></td>
+    <td>YES, CAN'T AGREE MORE!! 💯 His methods of writing documentation of repos made me love Github more!🤩 Thanks @saifkhaki 🌟</td>
+  </tr>
+</table>
+<br>
 <h3 align="Center">:tada: Achievements:</h3>
 <hr>    
 <div> 
