@@ -40,8 +40,7 @@ Always keen to learn more and collaborate with my fellow programmers, I am total
 </div>
 <br>
 <h3 align="center">:clap: Testimonials:</h3>
-<h1 align="center">❝</h1>
-
+<hr>
 <table>
   <tr>
     <th>Author</th>
