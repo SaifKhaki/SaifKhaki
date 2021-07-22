@@ -3,8 +3,10 @@
     <img width="250" align='center' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/DP.png">
     <h3>This is Saif Ullah Bin Khaki.</h3>
     <p>ML Engineer | UI UX Designer | Block Chain Enthusiast</p>
+
+<h4> <a href="mailto:saifbinkhaki.official@gmail.com">Email</a> • <a href="saifbinkhaki.live">Blogs</a></h4>
     
-<h4> <a href="mailto:saifbinkhaki.official@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/saif-ullah-bin-khaki-57ba45170/">LinkedIn</a> • <a href="https://twitter.com/KhakiBin">Twitter</a> • <a href="https://dribbble.com/saifullahbinkhaki">Dribbble</a> • <a href="https://devpost.com/saifbinkhaki-official">Devpost</a> • <a href="https://wa.link/5klj47">Whatsapp</a></h4>
+<h4> <a href="https://www.linkedin.com/in/saif-ullah-bin-khaki-57ba45170/">LinkedIn</a> • <a href="https://twitter.com/KhakiBin">Twitter</a> • <a href="https://dribbble.com/saifullahbinkhaki">Dribbble</a> • <a href="https://devpost.com/saifbinkhaki-official">Devpost</a> • <a href="https://wa.link/5klj47">Whatsapp</a></h4>
 <br>    
 </div>
 
