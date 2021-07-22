@@ -97,4 +97,6 @@ Always keen to learn more and collaborate with my fellow programmers, I am total
     </p>
 </div>
 <hr>
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+<div align="center">    
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</div>
