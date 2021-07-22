@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Hi there! 👋🤓</h3>
+    <h3>Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h3>
     <img width="250" align='center' src="https://github.com/SaifKhaki/SaifKhaki/blob/main/DP.png">
     <h3>This is Saif Ullah Bin Khaki.</h3>
     <p>ML Engineer | UI UX Designer | Block Chain Enthusiast</p>
